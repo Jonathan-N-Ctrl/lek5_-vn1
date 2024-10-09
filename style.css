@@ -1,0 +1,48 @@
+.stor-box{
+    Background-color: #624120
+
+}
+
+.röd-box{
+    background-color: #ff0000
+    
+}
+
+.grön-box{
+    background-color: #1bff00
+}
+
+.blå-box{
+    background-color:#007cff
+}
+
+.stor-box{
+    display: flex;
+    justify-content: space-around;
+}
+
+.röd-box{
+    min-height: 200px;
+    min-width: 200px;
+}
+
+.grön-box{
+    min-height: 200px;
+    min-width: 200px;
+}
+.blå-box{
+    min-height: 200px;
+    min-width: 200px;
+}
+
+.röd-text{
+    font-size: 80px;
+}
+
+.blå-text{
+    font-size: 80px;
+}
+
+.grön-text{
+    font-size: 80px;
+}
